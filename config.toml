@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "fr"
+languageCode = "en_us"
 title = "Blog ArendSyl"
 theme = "soho"
 
@@ -10,7 +10,7 @@ enableEmoji = true
 
 [params]
 author = "Arend'Syl"
-description = "Des trucs IT et plus si affinités"
+description = "IT stuff and maybe more"
 
 ## Set one of:
 # gravatar = "soho@example.com"
@@ -47,10 +47,28 @@ customJs = ["js/blog.js"]
   url = "/posts/"
 
   [[menu.main]]
+  name = "Categories"
+  weight = 200
+  identifier = "categories"
+  url = "/categories/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
+  [[menu.main]]
   name = "About"
   identifier = "about"
   weight = 300
   url = "/about/"
+
+  [[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 300
+  url = "/contact/"
 
 [taxonomies]
   category = "categories"
