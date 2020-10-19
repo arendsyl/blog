@@ -4,8 +4,8 @@ description = "This is a amazing first post"
 date = 2020-10-15T13:58:58+02:00
 slug = "hello-world"
 
-categories = ["Personal"]
-tags = ["Presentation", "Test"]
+categories = ["General"]
+tags = ["Presentation"]
 
 
 draft = true
