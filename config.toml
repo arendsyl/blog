@@ -38,6 +38,11 @@ customJs = ["js/blog.js"]
   title = "GitHub"
   url = "https://github.com/arendsyl"
 
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/ArendSyl"
+
 [menu]
 
   [[menu.main]]
@@ -63,12 +68,6 @@ customJs = ["js/blog.js"]
   identifier = "about"
   weight = 300
   url = "/about/"
-
-  [[menu.main]]
-  name = "Contact"
-  identifier = "contact"
-  weight = 300
-  url = "/contact/"
 
 [taxonomies]
   category = "categories"
