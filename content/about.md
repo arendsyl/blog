@@ -16,7 +16,7 @@ So i learned C during my 11th year.
 During maybe two years i didn't code, i discovered Minecraft and electronics so i left Code::Blocks to redstone and soldering pen.
 
 When a grew up to 14 i found a nice Youtube channel about Strategy Games (Paradox's ones) but the guy was also a developer. 
-So i watched him explaining his project of website/webapp using Mongodb, AngularJS, Express and NodeJS (back in the days when Yeoman hasn't been replaced by a plethora of CLIs and npx).
+So i watched him explaining his project of website/webapp using Mongodb, AngularJS, Express and NodeJS (back in the days when Yeoman hadn't been replaced by a plethora of CLIs and npx).
 I spent a lot of time trying to understand how this humongous stack worked, fascinated by the power of CLIs and the abundance of technologies...
 
 This made me understand that my life of coding has just started and that i'll like computer science for long.
